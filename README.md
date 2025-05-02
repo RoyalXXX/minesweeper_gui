@@ -1,4 +1,4 @@
-# Minesweeper GUI
+# Minesweeper GUI: Inter-Process Communication in Godot
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Godot v4.4](https://img.shields.io/badge/Godot-v4.4-blue.svg)](https://godotengine.org/)
