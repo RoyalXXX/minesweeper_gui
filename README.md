@@ -7,6 +7,8 @@ Minesweeper GUI is a simple yet illustrative project demonstrating how to build 
 
 This project serves as a clean example of separating the user interface from the core game logic. The Godot-based game handles only rendering, user interactions, and sending/receiving commands. All calculations—such as mine placement, tile revealing, win/loss conditions, etc.—are performed by a lightweight C++ backend, `engine.exe`.
 
+![alt text](https://github.com/RoyalXXX/minesweeper_gui/blob/main/screenshot.png)
+
 ## Architecture
 - **Frontend**: Developed in Godot 4 using GDScript. Handles:
 
